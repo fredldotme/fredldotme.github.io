@@ -18,6 +18,7 @@ Notable contributions and projects:
 - Halium: a mobile container and integration layer to Android devices
 - GhostCloud: a synchronization framework and app in C++ with Qt
 - WayDroid: A solution to run Android apps on GNU/Linux
+- Tide IDE: A WebAssembly & Linux app environment for developers
 
 Halium contributions:
 - Android HALs: parts of integrating OS with Halium-compatible HALs
