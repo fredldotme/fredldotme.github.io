@@ -22,8 +22,8 @@ Notable contributions and projects:
 
 Halium contributions:
 - Android HALs: parts of integrating OS with Halium-compatible HALs
-- Xperia X port (suzu)
-- Pixel 3a port (sargo)
+- Sony Xperia X port (suzu)
+- Google Pixel 3a port (sargo)
 - mechanicd: Services for integrating Android hardware over DBus
 - halium-qsg: Multi-threaded texture uploads on Android EGL
 
