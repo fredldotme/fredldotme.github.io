@@ -50,5 +50,5 @@ Competences:
 - Supporting fairly-sized networks of remote computers
 - Releasing software to thousands of users at the same time
 - Work in a FLOSS-first fashion
-- Architecturing and design of complex systems
+- Architecturing and design of complex systems and multi-disciplinary solutions
 - Involving low-maintenance automation
