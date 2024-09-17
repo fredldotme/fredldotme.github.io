@@ -25,6 +25,8 @@ Halium contributions:
 - Android HALs: parts of integrating OS with Halium-compatible HALs
 - Sony Xperia X port (suzu)
 - Google Pixel 3a port (sargo)
+- JingPad A1 port improvements
+- Fairphone 4 & 5 port improvements
 - mechanicd: Services for integrating Android hardware over DBus
 - halium-qsg: Multi-threaded texture uploads on Android EGL
 
