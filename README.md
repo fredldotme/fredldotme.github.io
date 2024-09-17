@@ -36,6 +36,7 @@ Ubuntu Touch contributions:
 - Providing contributor experience by the Platform Development Kit
 - Wireless Desktop Mode off a phone or tablet using Aethercast
 - Camera viewfinder mapping into qtubuntu-camera
+- Default QR Code reader app
 - Sweetspot between power-saving and performance
 - Forward-porting and polishing camera support in QtWebEngine
 - Multimedia handling in QtWebEngine using Halium OMX facilities
