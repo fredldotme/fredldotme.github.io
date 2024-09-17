@@ -37,6 +37,7 @@ Ubuntu Touch contributions:
 - Wireless Desktop Mode off a phone or tablet using Aethercast
 - Camera viewfinder mapping into qtubuntu-camera
 - Sweetspot between power-saving and performance
+- Forward-porting and polishing camera support in QtWebEngine
 - Multimedia handling in QtWebEngine using Halium OMX facilities
 - Smooth trackpad scrolling in the qtubuntu/ubuntumirclient Qt Platform Abstraction
 - Graphics subsystem improvements for running on Android hardware
