@@ -19,6 +19,7 @@ Notable contributions and projects:
 - GhostCloud: a synchronization framework and app in C++ with Qt
 - WayDroid: A solution to run Android apps on GNU/Linux
 - Tide IDE: A WebAssembly & Linux app environment for developers
+- Unity 7: The former desktop environment shipped by Ubuntu
 
 Halium contributions:
 - Android HALs: parts of integrating OS with Halium-compatible HALs
@@ -28,7 +29,17 @@ Halium contributions:
 - halium-qsg: Multi-threaded texture uploads on Android EGL
 
 Ubuntu Touch contributions:
-- Too many to note down
+- Work on the Lomiri desktop environment
+- System-wide NFC support, including security work and development experience
+- Providing contributor experience by the Platform Development Kit
+- Wireless Desktop Mode off a phone or tablet using Aethercast
+- Camera viewfinder mapping into qtubuntu-camera
+- Sweetspot between power-saving and performance
+- Multimedia handling in QtWebEngine using Halium OMX facilities
+- Smooth trackpad scrolling in the qtubuntu/ubuntumirclient Qt Platform Abstraction
+- Graphics subsystem improvements for running on Android hardware
+- Bringing Linux Snap support to more devices
+- Many more
 
 Competences:
 - Supporting fairly-sized networks of remote computers
