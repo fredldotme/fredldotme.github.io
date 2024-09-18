@@ -33,10 +33,10 @@ Halium contributions:
 Ubuntu Touch contributions:
 - Work on the Lomiri desktop environment
 - System-wide NFC support, including security work and development experience
-- Providing contributor experience by the Platform Development Kit
+- Providing contributor experience via the Platform Development Kit
 - Wireless Desktop Mode off a phone or tablet using Aethercast
-- Camera viewfinder mapping into qtubuntu-camera
-- Default QR Code reader app
+- Camera viewfinder mapping into apps through qtubuntu-camera
+- Highly performant default QR Code reader app
 - Playback of remote HTTP(S) content in apps via media-hub & qtubuntu-media
 - Sweetspot between power-saving and performance
 - Forward-porting and polishing camera support in QtWebEngine
