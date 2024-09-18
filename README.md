@@ -28,7 +28,7 @@ Halium contributions:
 - JingPad A1 port improvements
 - Fairphone 4 & 5 port improvements
 - mechanicd: Services for integrating Android hardware over DBus
-- halium-qsg: Multi-threaded texture uploads on Android EGL
+- haliumqsgcontext: Plugin for multi-threaded texture uploads in Qt on Android EGL
 
 Ubuntu Touch contributions:
 - Work on the Lomiri desktop environment
