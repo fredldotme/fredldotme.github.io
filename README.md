@@ -44,6 +44,7 @@ Ubuntu Touch contributions:
 - Smooth trackpad scrolling in the qtubuntu/ubuntumirclient Qt Platform Abstraction
 - Graphics subsystem improvements for running on Android hardware
 - Bringing Linux Snap support to more devices
+- Various apps released in the official [Open Store](https://open-store.io)
 - Many more
 
 Competences:
