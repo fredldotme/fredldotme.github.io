@@ -16,9 +16,12 @@ Worked in the fields of
 Notable contributions and projects:
 - Ubuntu Touch: a mobile OS built on Ubuntu
 - Halium: a mobile container and integration layer to Android devices
+- SailfishOS: Enablement of the Samsung Galaxy Nexus
 - GhostCloud: a synchronization framework and app in C++ with Qt
 - WayDroid: A solution to run Android apps on GNU/Linux
 - Tide IDE: A WebAssembly & Linux app environment for developers
+- Pocket VMs: A virtual machine manager and QEMU frontend for Ubuntu Touch & Snap environments
+- ISODrive: Install GNU/Linux distributions off an Ubuntu Touch or SailfishOS device
 - Unity 7: The former desktop environment shipped by Ubuntu
 
 Halium contributions:
