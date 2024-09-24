@@ -18,16 +18,16 @@ Worked in the fields of
 ### Free and Open Source Software
 
 Notable contributions and projects:
-- Ubuntu Touch: a mobile OS built on Ubuntu
-- Halium: a mobile container and integration layer for GNU/Linux on Android devices
-- SailfishOS: A GNU/Linux mobile OS, ported to the Samsung Galaxy Nexus
-- GhostCloud: a synchronization framework and app in C++ with Qt
-- WayDroid: A solution to run Android apps on GNU/Linux
-- Tide IDE: A WebAssembly & Linux app environment for developers
-- Pocket VMs: A virtual machine manager and QEMU frontend for Ubuntu Touch & Snap environments
-- ISODrive: Install GNU/Linux distributions off an Ubuntu Touch or SailfishOS device
-- Unity 7: The former desktop environment shipped by Ubuntu
-- libscheisse: A WebAssembly-capable library to brighten up grammatically correct German sentences
+- [Ubuntu Touch](https://ubuntu-touch.io): a mobile OS built on Ubuntu
+- [Halium](https://halium.org): a mobile container and integration layer for GNU/Linux on Android devices
+- [SailfishOS](https://sailfishos.org/): A GNU/Linux mobile OS, ported to the Samsung Galaxy Nexus
+- [GhostCloud](https://open-store.io/app/me.fredl.ghostcloud): a synchronization framework and app in C++ with Qt
+- [WayDroid](https://waydro.id/): A solution to run Android apps on GNU/Linux
+- [Tide IDE](https://github.com/fredldotme/Tide): A WebAssembly & Linux app environment for developers
+- [Pocket VMs](https://open-store.io/app/pvms.me.fredl): A virtual machine manager and QEMU frontend for Ubuntu Touch & Snap environments
+- [ISODrive](https://open-store.io/app/me.fredl.isodrive): Install GNU/Linux distributions off an Ubuntu Touch or SailfishOS device
+- [Unity 7](https://en.wikipedia.org/wiki/Unity_(user_interface)): The former desktop environment shipped by Ubuntu
+- [libscheisse](https://oisanfochnurscheis.se): A WebAssembly-capable library to brighten up grammatically correct German sentences
 
 Halium contributions:
 - Android HALs: parts of integrating OS with Halium-compatible HALs
