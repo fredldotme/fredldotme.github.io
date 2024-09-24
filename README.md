@@ -1,5 +1,9 @@
 # Welcome
 
+## Support
+
+You can financially support me via [PayPal](https://paypal.me/beidl) or [Liberapay](https://liberapay.com/fredldotme).
+
 ## Resumé
 
 ### Professional work
