@@ -56,6 +56,7 @@ Ubuntu Touch contributions:
 - Many more
 
 Competences:
+- Multi-platform software development
 - Supporting fairly-sized networks of remote computers
 - Releasing software to thousands of users at the same time
 - Work in a FLOSS-first fashion
