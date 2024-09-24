@@ -20,7 +20,7 @@ Worked in the fields of
 Notable contributions and projects:
 - Ubuntu Touch: a mobile OS built on Ubuntu
 - Halium: a mobile container and integration layer for GNU/Linux on Android devices
-- SailfishOS: Enablement of the Samsung Galaxy Nexus
+- SailfishOS: A GNU/Linux mobile OS, ported to the Samsung Galaxy Nexus
 - GhostCloud: a synchronization framework and app in C++ with Qt
 - WayDroid: A solution to run Android apps on GNU/Linux
 - Tide IDE: A WebAssembly & Linux app environment for developers
