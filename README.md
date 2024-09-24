@@ -27,6 +27,7 @@ Notable contributions and projects:
 - Pocket VMs: A virtual machine manager and QEMU frontend for Ubuntu Touch & Snap environments
 - ISODrive: Install GNU/Linux distributions off an Ubuntu Touch or SailfishOS device
 - Unity 7: The former desktop environment shipped by Ubuntu
+- libscheisse: A WebAssembly-capable library to brighten up grammatically correct German sentences
 
 Halium contributions:
 - Android HALs: parts of integrating OS with Halium-compatible HALs
