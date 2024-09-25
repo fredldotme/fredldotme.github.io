@@ -6,6 +6,16 @@ You can financially support me via [PayPal](https://paypal.me/beidl) or [Liberap
 
 ## Resumé
 
+### Competence
+
+- Multi-platform software development
+- Supporting fairly-sized networks of remote computers
+- Releasing software to thousands of users at the same time
+- Work in a FLOSS-first fashion
+- Architecturing and design of complex systems and multi-disciplinary solutions
+- Involving low-maintenance automation
+
+
 ### Professional work
 
 Worked in the fields of
@@ -54,11 +64,3 @@ Ubuntu Touch contributions:
 - Bringing Linux Snap support to more devices
 - Various apps released in the official [Open Store](https://open-store.io)
 - Many more
-
-Competences:
-- Multi-platform software development
-- Supporting fairly-sized networks of remote computers
-- Releasing software to thousands of users at the same time
-- Work in a FLOSS-first fashion
-- Architecturing and design of complex systems and multi-disciplinary solutions
-- Involving low-maintenance automation
