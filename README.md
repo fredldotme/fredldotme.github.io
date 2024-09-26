@@ -8,7 +8,7 @@ You can financially support me via [PayPal](https://paypal.me/beidl) or [Liberap
 
 ### Competence
 
-- Multi-platform software development across desktops, mobile & server systems
+- Multi-platform software development from embedded to server systems
 - Supporting fairly-sized networks of remote computers
 - Releasing software to thousands of users at the same time
 - Work in a FLOSS-first fashion
