@@ -18,7 +18,7 @@ You can financially support me via [PayPal](https://paypal.me/beidl) or [Liberap
 - Supporting fairly-sized networks of remote computers
 - Releasing software to thousands of users at the same time
 - Work in a FLOSS-first fashion
-- Architecturing and design of complex systems and multi-disciplinary solutions
+- Architecture and design of complex systems and multi-disciplinary solutions
 - Involving low-maintenance automation
 
 
