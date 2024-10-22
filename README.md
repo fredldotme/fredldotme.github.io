@@ -25,6 +25,7 @@ You can financially support me via [PayPal](https://paypal.me/beidl) or [Liberap
 ### Professional work
 
 Worked in the fields of
+- Public transportation
 - Digital Signage
 - IoT devices
 - Multimedia, Audio & Video
