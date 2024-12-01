@@ -9,6 +9,7 @@ You can financially support me via [PayPal](https://paypal.me/beidl) or [Liberap
 - ["Ubuntu in your hands: The Going Ons at UBports" at Ubuntu Summit 2022](https://www.youtube.com/watch?v=d1sztciuuEw)
 - ["Lomiri and the myth of the pocket size desktop computer" at FOSDEM 2023](https://archive.fosdem.org/2023/schedule/event/lomiri/)
 - ["Snapcrafting on a tablet: A little adventure" at Ubuntu Summit 2023](https://www.youtube.com/watch?v=nZ05Kb3y2nY)
+- ["What's going on with Snaps on Ubuntu Touch?" at Ubuntu Summit 2024](https://www.youtube.com/watch?v=osQSYJttoco)
 
 ## Resumé
 
