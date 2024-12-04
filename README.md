@@ -40,6 +40,7 @@ Notable contributions and projects:
 - [Halium](https://halium.org): a mobile container and integration layer for GNU/Linux on Android devices
 - [SailfishOS](https://sailfishos.org/): A GNU/Linux mobile OS, ported to the Samsung Galaxy Nexus
 - [GhostCloud](https://open-store.io/app/me.fredl.ghostcloud): a synchronization framework and app in C++ with Qt
+- [GhostCloud for macOS](https://github.com/fredldotme/GhostCloud-macOS): A FileProvider for macOS with transparent synchronization
 - [WayDroid](https://waydro.id/): A solution to run Android apps on GNU/Linux
 - [Tide IDE](https://github.com/fredldotme/Tide): A WebAssembly & Linux app environment for developers
 - [Pocket VMs](https://open-store.io/app/pvms.me.fredl): A virtual machine manager and QEMU frontend for Ubuntu Touch & Snap environments
