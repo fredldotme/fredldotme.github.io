@@ -10,6 +10,7 @@ You can financially support me via [PayPal](https://paypal.me/beidl) or [Liberap
 - ["Lomiri and the myth of the pocket size desktop computer"](https://archive.fosdem.org/2023/schedule/event/lomiri/) at FOSDEM 2023
 - ["Snapcrafting on a tablet: A little adventure"](https://www.youtube.com/watch?v=nZ05Kb3y2nY) at Ubuntu Summit 2023
 - ["What's going on with Snaps on Ubuntu Touch?"](https://www.youtube.com/watch?v=osQSYJttoco) at Ubuntu Summit 2024
+- ["Mainline vs libhybris: Technicalities, down to the buffer"](https://ftp.fau.de/fosdem/2025/h2214/fosdem-2025-4917-mainline-vs-libhybris-technicalities-down-to-the-buffer.av1.webm) at FOSDEM 2025
 
 ## Resumé
 
